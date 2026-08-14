@@ -14,15 +14,37 @@ Se a Administração simplesmente cessa ou exclui o benefício sem aplicar essa 
 >
 > **Antes de redigir, conferir a DATA do enquadramento** e pedir o prazo correto. Sustentar "24 meses" em caso de enquadramento posterior a junho/2025 é erro facilmente rebatido pela União — e compromete a credibilidade de toda a peça. O julgado de referência abaixo (fevereiro/2024) é **anterior** à Portaria 1.084/2025 e aplica, corretamente para a época, o prazo de 24 meses.
 >
-> **Tese complementar, com ressalva honesta:** cabe arguir que norma infralegal (portaria) restringiu direito social assegurado em lei, na mesma lógica do Tema 379 da TNU. A ressalva: a lei fala em "**até** 24 meses", expressão que comporta leitura de teto, e não de prazo mínimo garantido — o que enfraquece o argumento. Usar como fundamento complementar, nunca como único.
+> 🚫 **NÃO arguir ilegalidade da portaria por reduzir o prazo ou o teto — a tese não se sustenta.** Ver a seção "Tese que NÃO se sustenta", abaixo.
 
 ## Base legal
 
-- Art. 6º, caput, da Lei 14.601/2023 — Regra de Proteção: manutenção da família no Programa por até 24 meses quando a renda per capita superar o limite de elegibilidade; desligamento apenas se a renda per capita superar meio salário mínimo.
-- Art. 6º, §2º, da Lei 14.601/2023 — pagamento de 50% do valor do benefício durante o período de proteção.
+- **Art. 6º, caput**, da Lei 14.601/2023 — Regra de Proteção: as famílias cuja renda per capita supere o limite do art. 5º, II, *"serão mantidas no Programa pelo período de até 24 (vinte e quatro) meses, observados os parâmetros estabelecidos neste artigo e em regulamento"*.
+- **Art. 6º, § 1º** — desligamento se a renda per capita superar **meio salário mínimo**, excluído do cálculo o valor dos benefícios do PBF.
+- **Art. 6º, § 2º** — pagamento de **50% do valor dos benefícios financeiros a que for elegível** durante o período de proteção.
+- **Art. 6º, §§ 3º e 4º** — **prioridade de reingresso** no Programa para quem se desligou voluntariamente (§ 3º, I) ou por término do período de proteção (§ 3º, II), cumpridos os requisitos de ingresso (§ 4º).
+- **Art. 6º, § 5º** (incluído pela Lei nº 15.077/2024) — *"Ato do Poder Executivo federal poderá alterar: I - o valor-limite de desligamento do Programa, observado o valor constante do § 1º deste artigo como máximo; II - o prazo a que se refere o § 2º deste artigo, não podendo ser superior ao prazo previsto no referido parágrafo."* **É este dispositivo que dá lastro legal à redução promovida pela Portaria 1.084/2025.**
 - **Portaria MDS nº 1.084, de 14/05/2025** (DOU 15/05/2025) — altera os arts. 2º, XV, 20 e 21 e inclui o art. 54-A na Portaria MDS nº 897/2023: prazo de **12 meses** e teto de renda per capita de **R$ 706,00** para enquadramentos a partir de junho/2025; regra transitória do art. 54-A mantém **24 meses** e teto de **R$ 759,00** para quem já estava na regra até junho/2025. Vigência 12/06/2025, efeitos a partir da folha de julho/2025.
 
 > **Pendência de conferência:** o inteiro teor da Portaria MDS nº 1.084/2025 ainda não foi obtido diretamente no DOU (in.gov.br indisponível para acesso automatizado). Os dados acima foram conferidos em repositório de legislação (LEX Editora) e em comunicações oficiais do MDS e da CNM. **Conferir no DOU antes de transcrição literal em peça.**
+
+## Tese que NÃO se sustenta — leia antes de redigir
+
+Poderia parecer atraente sustentar que a Portaria MDS nº 1.084/2025 é ilegal por ter reduzido, via norma infralegal, o prazo (de 24 para 12 meses) e o teto de renda (para R$ 706,00, abaixo de meio salário mínimo) da Regra de Proteção — na mesma lógica com que o Tema 379 da TNU tratou da trava de 16%. **Essa tese não se sustenta**, e a verificação foi feita no texto legal:
+
+O **§ 5º do art. 6º da Lei 14.601/2023, incluído pela Lei nº 15.077/2024**, autoriza expressamente o Executivo a alterar tanto o valor-limite de desligamento — tendo meio salário mínimo como **máximo** — quanto o prazo — **não podendo ser superior** a 24 meses. A lei fixa **tetos, não pisos**. O caput do art. 6º, aliás, já remetia aos parâmetros estabelecidos "neste artigo **e em regulamento**".
+
+Duas diferenças em relação ao Tema 379 tornam o paralelo inviável:
+
+1. **Lá faltava lastro legal; aqui ele existe e é anterior.** A trava de 16% foi criada por portaria sem previsão em lei até a Lei 15.077/2024 — daí a ilegalidade reconhecida para o período anterior. A delegação do § 5º vigora desde 27/12/2024, e a Portaria 1.084 é de 14/05/2025.
+2. **O argumento de "delegação legislativa em branco" também não serve.** Ele é usado contra o art. 12-A justamente por ausência de balizas; o § 5º traz duas balizas objetivas e expressas.
+
+Sustentar essa tese em peça convida a União a desmontá-la com a leitura de um único parágrafo, comprometendo a credibilidade dos demais argumentos. No máximo, resta a linha da proibição do retrocesso social / vedação à proteção deficiente contra a redução do prazo — fraca isoladamente, nunca como fundamento único.
+
+**O que efetivamente cabe discutir:**
+
+- **Aplicação intertemporal** — quem se enquadrou até junho/2025 tem direito a 24 meses e ao teto de R$ 759,00 (art. 54-A); aplicar-lhe o prazo menor é ilegal.
+- **Não aplicação da regra pela Administração** — o desligamento direto, sem os 50% do período de proteção, é a ilegalidade típica e é o objeto do julgado abaixo.
+- **Prioridade de reingresso** (art. 6º, § 3º, II) após o término do período — pedido pouco explorado e de fácil demonstração.
 
 ## Jurisprudência
 
@@ -45,7 +67,8 @@ Julgou procedente o pedido, concedendo tutela antecipada para condenar a União 
 1. Reconhecimento de que a família faz jus à Regra de Proteção do art. 6º, caput, da Lei 14.601/2023, por ter passado a superar o limite de elegibilidade após já integrar o Programa Bolsa Família.
 2. Tutela antecipada/de urgência para reintegração ou manutenção da família no Programa, com pagamento de 50% do valor do benefício (art. 6º, §2º).
 3. Pagamento pelo período remanescente até completar o prazo da Regra de Proteção — **24 meses se o enquadramento se deu até junho/2025 (art. 54-A da Portaria 897/2023); 12 meses se posterior (arts. 20 e 21, na redação da Portaria MDS nº 1.084/2025)** —, contados do marco em que a renda per capita passou a superar o limite de elegibilidade, com abatimento de eventuais parcelas já recebidas nesse ínterim.
-4. Condenação em honorários sucumbenciais, revertidos ao FADPU (Tema 1.002/STF; Súmula 421/STJ cancelada).
+4. Subsidiariamente, para o caso de já esgotado o período de proteção: reconhecimento da **prioridade de reingresso** no Programa (art. 6º, § 3º, II, da Lei 14.601/2023), cumpridos os requisitos do § 4º.
+5. Condenação em honorários sucumbenciais, revertidos ao FADPU (Tema 1.002/STF; Súmula 421/STJ cancelada).
 
 ## Modelo de peça
 
