@@ -17,7 +17,7 @@ Cada cenário em [`cenarios/`](cenarios/) corresponde a uma situação fática r
 | [05 — Mora irrazoável na análise administrativa](cenarios/05-mora-irrazoavel/) | Pré-habilitação sem conclusão; parâmetros de 130/75 dias (Enunciado 119 CCR) |
 | [06 — Extinção por falta de interesse de agir](cenarios/06-extincao-falta-interesse-agir/) | Sentença extintiva por entrevista domiciliar não realizada — reforma |
 | [07 — Pessoa em situação de rua](cenarios/07-situacao-de-rua/) | Grupo excepcional à trava de 16%; dispensa de entrevista |
-| [08 — Regra de Proteção (art. 6º, Lei 14.601/2023)](cenarios/08-regra-de-protecao/) | Renda per capita acima do limite; manutenção gradual por 24 meses |
+| [08 — Regra de Proteção (art. 6º, Lei 14.601/2023)](cenarios/08-regra-de-protecao/) | Renda per capita acima do limite; manutenção com 50% do benefício — **12 ou 24 meses conforme a data do enquadramento (Portaria MDS 1.084/2025)** |
 | [09 — BPC computado na renda do PBF (pluripessoal)](cenarios/09-bpc-computado-renda-pbf-pluripessoal/) | Inconstitucionalidade do art. 4º, §2º, da Lei 14.601/2023 |
 | [10 — PBF computado na renda para fins de BPC](cenarios/10-pbf-computado-renda-bpc-acordo-2-2026/) | Problema inverso do cenário 9; Acordo Extrajudicial MDS/INSS/AGU/DPU nº 2/2026 |
 | [11 — Atrasados e retroativos](cenarios/11-atrasados-retroativos/) | Parcelas vencidas; teto administrativo x integralidade judicial |
