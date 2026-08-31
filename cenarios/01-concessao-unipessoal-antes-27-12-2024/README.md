@@ -41,7 +41,7 @@ Tese fixada (dispositivo vinculante):
 
 A própria TNU reconheceu que "a aplicação retroativa da Portaria MDS nº 911/2023 é vedada, especialmente quando o direito ao benefício se consolidou em momento anterior à edição da norma restritiva" — fundamento central deste cenário.
 
-Ressalva: o Tema 379 ainda não transitou em julgado; há Embargos de Declaração da DPU pendentes (PAJ 2025/039-00144) e Repercussão Geral em análise no ARE 1.550.140/PE.
+Ressalva: o Tema 379 ainda não transitou em julgado. Os Embargos de Declaração da DPU (PAJ 2025/039-00144) foram rejeitados por unanimidade em 11/03/2026. Em seguida foi interposto Recurso Extraordinário, distribuído ao STF como **RE 1.614.224**, afetado ao **Tema 1.472 da repercussão geral** (repercussão geral já reconhecida), ainda pendente de julgamento (atualizado em 28/08/2026) — supera a referência anterior ao "ARE 1.550.140/PE", estágio processual já superado.
 
 Link: [../../jurisprudencia/0044230-77.2023.4.05.8300.md](../../jurisprudencia/0044230-77.2023.4.05.8300.md)
 
@@ -74,4 +74,4 @@ Ambos os modelos estão disponíveis em [`modelos-ccr/peticoes/`](../../modelos-
 
 - Valor da causa: 12 parcelas vincendas (R$ 600,00 × 12 = R$ 7.200,00), somadas às parcelas vencidas quando houver.
 - Este cenário aplica-se a fatos geradores (cessação, indeferimento ou consolidação do direito) **anteriores** a 27/12/2024. Para fatos posteriores a essa data, ver o cenário 2 deste playbook.
-- Como o Tema 379 ainda não transitou em julgado, recomenda-se acompanhar os Embargos de Declaração da DPU (PAJ 2025/039-00144) e a Repercussão Geral no ARE 1.550.140/PE, que podem alterar o panorama aqui descrito.
+- Como o Tema 379 ainda não transitou em julgado, recomenda-se acompanhar o **RE 1.614.224** (Tema 1.472 do STF, repercussão geral já reconhecida, pendente de julgamento), interposto após a rejeição, por unanimidade em 11/03/2026, dos Embargos de Declaração da DPU (PAJ 2025/039-00144) — o RE pode alterar o panorama aqui descrito.

@@ -42,6 +42,10 @@ Este acórdão consolida, em sede recursal, o dispositivo já fixado na sentenç
 
 Fonte: [`../../jurisprudencia/5020886-48.2025.4.03.6301.md`](../../jurisprudencia/5020886-48.2025.4.03.6301.md)
 
+### Precedente do próprio acervo (NÃO é jurisprudência de tribunal) — tutela de urgência deferida em 1º grau
+
+Decisão de tutela de urgência, id. 595452906, de 21/07/2026, 1ª Vara Gabinete do JEF de São Paulo (Juíza Federal Gabriella Naves Barbosa), autos nº 5039611-51.2026.4.03.6301 (caso HUMBERTO PEREIRA DA SILVA, PAJ 2026/020-07909; réus União Federal e Município de São Paulo). Decisão de 1º grau, citada aqui apenas como modelo de fundamentação e de dispositivo — nunca como jurisprudência de tribunal (ver regra de citação no README do repositório). Reproduz o mesmo esqueleto de dispositivo já consolidado neste cenário (entrevista pelo Município em 30 dias; após a confirmação, análise/habilitação pela União em 15 dias, com comprovação nos autos em ambas as etapas). Trecho da fundamentação sobre o perigo de dano, útil para reforçar pedido de tutela em casos de mora prolongada: *"A estagnação do procedimento de verificação por aproximadamente 11 (onze) meses excede substancialmente qualquer parâmetro razoável de eficiência administrativa (art. 37, caput, da CF)."* Sobre o desfecho do cumprimento dessa tutela (cumprimento desigual entre os réus), ver [cenário 14 — descumprimento de tutela antecipada](../14-descumprimento-tutela-antecipada/README.md).
+
 ## Pedidos
 
 1. **Reforma (em recurso) ou anulação (em preliminar de contestação/réplica) da sentença extintiva**, afastando a aplicação do art. 485, VI, do CPC.
