@@ -72,6 +72,6 @@ Ambos os modelos estão disponíveis em [`modelos-ccr/peticoes/`](../../modelos-
 
 ## Observações
 
-- Valor da causa: 12 parcelas vincendas (R$ 600,00 × 12 = R$ 7.200,00), somadas às parcelas vencidas quando houver.
+- Valor da causa: 12 parcelas vincendas (R$ 600,00 × 12 = R$ 7.200,00), somadas às parcelas vencidas quando houver — ver a [regra geral e a exceção](../../README.md#regra-de-valor-da-causa) (quando o assistido já recebe o benefício e o pedido é só de atrasados, valor da causa = só os atrasados).
 - Este cenário aplica-se a fatos geradores (cessação, indeferimento ou consolidação do direito) **anteriores** a 27/12/2024. Para fatos posteriores a essa data, ver o cenário 2 deste playbook.
 - Como o Tema 379 ainda não transitou em julgado, recomenda-se acompanhar o **RE 1.614.224** (Tema 1.472 do STF, repercussão geral já reconhecida, pendente de julgamento), interposto após a rejeição, por unanimidade em 11/03/2026, dos Embargos de Declaração da DPU (PAJ 2025/039-00144) — o RE pode alterar o panorama aqui descrito.

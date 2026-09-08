@@ -139,7 +139,7 @@ O modelo está disponível em [`modelos-ccr/peticoes/`](../../modelos-ccr/petico
 
 ## Observações
 
-- Valor da causa: mesma fórmula do cenário 1 (12 parcelas vincendas, R$ 600,00 × 12 = R$ 7.200,00, somadas às vencidas quando houver).
+- Valor da causa: mesma fórmula do cenário 1 (12 parcelas vincendas, R$ 600,00 × 12 = R$ 7.200,00, somadas às vencidas quando houver) — ver a [regra geral e a exceção](../../README.md#regra-de-valor-da-causa) (quando o assistido já recebe o benefício e o pedido é só de atrasados, valor da causa = só os atrasados).
 - A suspensão da entrevista domiciliar não gera direito automático à concessão: os demais requisitos de elegibilidade continuam a ser exigidos e devem ser demonstrados (cláusula 8ª do Acordo nº 4/2026).
 - Para novas inclusões e para famílias em averiguação cadastral, a entrevista domiciliar continua obrigatória, salvo enquadramento em um dos oito grupos excepcionais da IN SAGICAD/MDS nº 20/2026.
 - A tese subsidiária de inconstitucionalidade incidental do art. 12-A permanece útil mesmo após 01/07/2027, quando a exigência de entrevista domiciliar for retomada.

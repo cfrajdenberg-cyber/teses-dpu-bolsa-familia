@@ -39,6 +39,11 @@ Cada cenário em [`cenarios/`](cenarios/) corresponde a uma situação fática r
 - Evitar "pacífico", "uníssono", "consolidado" sem fonte primária específica — a jurisprudência sobre Bolsa Família ainda está em construção em vários pontos (ver especialmente o Tema 379 da TNU, cuja tese fixada é **favorável à legalidade** da trava de 16% a partir de dezembro/2024, e não à sua ilegalidade ampla — o voto que defendia a ilegalidade ampla foi vencido).
 - Nenhum dado pessoal de assistido (CPF, endereço, contato) é incluído neste repositório. Nomes de partes em decisões judiciais são mantidos apenas quando fazem parte da citação oficial do julgado (prática normal de citação jurídica, autos públicos) — nunca em modelos de petição, que permanecem genéricos.
 
+## Regra de valor da causa
+
+- **Regra geral** (art. 292, § 1º, do CPC — prestações vencidas e vincendas): soma de 12 (doze) parcelas vincendas (R$ 600,00 × 12 = R$ 7.200,00) **com** as parcelas vencidas/atrasados, quando houver. Aplica-se a qualquer pedido de concessão ou restabelecimento do benefício (cenários 1, 2, 3, 4, 6, 7, 8, 9, 10), pois há prestações futuras em discussão.
+- **Exceção:** quando o assistido **já está recebendo** o benefício e o pedido se limita ao **pagamento de atrasados** — sem pedido de concessão/restabelecimento, logo sem vincendas em discussão (ver [cenário 11 — atrasados e retroativos](cenarios/11-atrasados-retroativos/)) —, o valor da causa é **só o montante dos atrasados**, sem somar as 12 parcelas vincendas.
+
 ## Fontes
 
 Guia técnico de teses do 3º Ofício Cível da DPU/SP (atualizado conforme o Memorando Circular nº 8747849/2026-DPGU/CCRCIVEL), acervo de decisões favoráveis do 3º Ofício Cível, e o repositório oficial "Material Disponível — Bolsa Família" da CCR Cível da DPU (SharePoint institucional).
