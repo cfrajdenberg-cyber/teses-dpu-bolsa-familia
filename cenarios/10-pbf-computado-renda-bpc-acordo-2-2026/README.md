@@ -85,9 +85,14 @@ mecanismo administrativo:
   eventual saldo remanescente é pago ao INSS em até 10 meses após a
   concessão.
 - **Implementação sistêmica:** prevista para ocorrer em até 60 dias
-  contados da assinatura do Acordo (09/07/2026). Requerimentos de BPC
-  anteriores à disponibilização sistêmica da Declaração ficam sobrestados
-  até a implementação total (cláusula 10ª do Acordo).
+  contados da assinatura do Acordo (assinaturas eletrônicas de 18/06/2026
+  a 28/07/2026). A cláusula 10ª sobresta apenas os requerimentos
+  formulados **entre** a incorporação da Declaração ao formulário do BPC
+  (02/06/2026) e a implementação integral. Requerimentos com **DER até
+  01/06/2026 não são abrangidos automaticamente** (Informe Conjunto CCR
+  Prev/CCR Cível, item 7): cabe recurso ao CRPS com base no Acordo, novo
+  requerimento com a Declaração ou ação judicial com a tese de
+  inconstitucionalidade (cláusula 14ª).
 
 ## Jurisprudência
 
@@ -120,9 +125,11 @@ orientar o assistido e, se necessário, requerer administrativamente:
 1. Verificação, no requerimento do BPC, de que a Declaração de
    Desligamento Voluntário do PBF foi efetivamente oferecida pelo INSS,
    quando cabível.
-2. Caso o requerimento seja anterior à implementação sistêmica do
-   mecanismo, acompanhamento do sobrestamento (cláusula 10ª do Acordo),
-   sem tratá-lo como indeferimento definitivo.
+2. Caso o requerimento tenha sido formulado entre 02/06/2026 e a
+   implementação integral do mecanismo, acompanhamento do sobrestamento
+   (cláusula 10ª do Acordo), sem tratá-lo como indeferimento definitivo;
+   se a DER for até 01/06/2026, recurso ao CRPS com base no Acordo, novo
+   requerimento com a Declaração ou ação judicial.
 
 ### Via judicial (quando cabível), esqueleto de pedidos
 
@@ -159,9 +166,10 @@ deve ser atualizado para referenciá-lo, no mesmo formato do cenário 9.
 ## Observações
 
 - Verificar sempre, antes de orientar o assistido, se (i) o requerimento
-  de BPC é anterior à implementação sistêmica do mecanismo do Acordo nº
-  2/2026 (hipótese sujeita a sobrestamento administrativo, não a
-  indeferimento definitivo) ou (ii) o assistido já teve oportunidade de
+  de BPC foi formulado entre 02/06/2026 e a implementação integral do
+  mecanismo do Acordo nº 2/2026 (hipótese sujeita a sobrestamento
+  administrativo, não a indeferimento definitivo) ou até 01/06/2026
+  (fora do alcance automático do Acordo) ou (ii) o assistido já teve oportunidade de
   assinalar a Declaração de Desligamento Voluntário e não o fez — o que
   pode configurar vício procedimental a ser arguido administrativa ou
   judicialmente.
