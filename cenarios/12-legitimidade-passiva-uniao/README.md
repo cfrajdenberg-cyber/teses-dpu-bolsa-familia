@@ -75,6 +75,28 @@ Fonte: [`../../jurisprudencia/5022311-47.2024.4.03.6301.md`](../../jurisprudenci
 
 Fonte: [`../../jurisprudencia/5001347-13.2024.4.03.6340.md`](../../jurisprudencia/5001347-13.2024.4.03.6340.md).
 
+### RI 5045216-46.2024.4.03.6301 — 13ª Turma Recursal da Seção Judiciária de São Paulo (TRF3)
+
+**Citação completa:** Recurso Inominado Cível nº 5045216-46.2024.4.03.6301, 13ª Turma Recursal da Seção Judiciária de São Paulo. Relatora: Juíza Federal Isadora Segalla Afanasieff. Julgamento por unanimidade em 26/03/2025. Recorrente: parte autora (DPU).
+
+> "Considerando, pois, que o direito foi negado em razão de limitação que decorre de ato normativo expedido por órgão da União, impõe-se o reconhecimento da legitimidade passiva ad causam do ente federal."
+
+**Dispositivo:** deu provimento ao recurso da parte autora para anular a sentença e determinar o prosseguimento do feito. Útil quando o indeferimento foi formalizado pelo Município com base na trava de unipessoais.
+
+Fonte: [`../../jurisprudencia/5045216-46.2024.4.03.6301.md`](../../jurisprudencia/5045216-46.2024.4.03.6301.md).
+
+### RI 5002764-84.2025.4.03.6301 — 5ª Turma Recursal da Seção Judiciária de São Paulo (TRF3)
+
+**Citação completa:** Recurso Inominado Cível nº 5002764-84.2025.4.03.6301, 5ª Turma Recursal da Seção Judiciária de São Paulo. Relatora: Juíza Federal Kyu Soon Lee. Julgamento por unanimidade em 14/11/2025. Recorrente: União Federal.
+
+> "[...] a ausência de demonstração da justificativa da cessação do benefício, pela União, impede o Juízo de analisar a efetiva legitimidade da medida."
+
+**Dispositivo:** negou provimento ao recurso da União, com honorários de 10%. Relevante por vir da 5ª TR/SP, que costuma reconhecer a ilegitimidade da União em casos de omissão ou negativa: o acórdão distingue a suspensão por averiguação cadastral conduzida pelo Ministério.
+
+Fonte: [`../../jurisprudencia/5002764-84.2025.4.03.6301.md`](../../jurisprudencia/5002764-84.2025.4.03.6301.md).
+
+Ver também o RI 5024862-63.2025.4.03.6301 (15ª TR/SP — teoria da asserção e primazia da União na operacionalização do PBF), no cenário 03.
+
 ## Argumentação
 
 - Reconhecimento da legitimidade passiva da União e da competência da Justiça Federal, com base no art. 1º, art. 12 e art. 14, § 3º da Lei nº 14.601/2023 e no art. 18 do Decreto nº 12.064/2024.

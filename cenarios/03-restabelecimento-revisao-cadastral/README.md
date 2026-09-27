@@ -71,6 +71,38 @@ Dispositivo: "Dou provimento ao recurso da parte autora para julgar procedente o
 
 Dispositivo: provimento do recurso da parte autora, com condenação da União ao pagamento das parcelas desde a cessação (setembro de 2022) e tutela de urgência para imediata reimplantação. Precedente de outra região (TRF5), útil para afastar a alegação de "ausência de direito subjetivo"/reserva do possível quando a própria Administração admite a regularização cadastral e mesmo assim remete o beneficiário à fila de novos ingressos.
 
+### 7. Averiguação cadastral sem notificação prévia — ofensa ao contraditório; mérito julgado em grau recursal
+
+**Citação:** RI 5024862-63.2025.4.03.6301, 15ª Turma Recursal/SP (TRF3). Relatora Juíza Federal Luciana Jaco Braga, julgado em 30/08/2026. Natureza: jurisprudência (acórdão de Turma Recursal, unânime). ([íntegra](../../jurisprudencia/5024862-63.2025.4.03.6301.md))
+
+> "Por certo que para que o benefício seja suspenso ou cancelado é imprescindível que haja a prévia instauração do contraditório, administrativo ou judicial, no qual seja assegurada ao beneficiário a ampla defesa, o que não restou comprovado nos autos."
+
+Dispositivo: provimento do recurso da parte autora; condenação da União ao pagamento desde a cessação (03/2023).
+
+### 8. "Aguardar seleção impessoal" é argumento genérico; reversão de cancelamento em 180 dias
+
+**Citação:** RI 5025504-36.2025.4.03.6301, 2ª Turma Recursal/SP (TRF3). Relator Juiz Federal Uilton Reina Cecato, julgado em 29/05/2026. Natureza: jurisprudência (acórdão de Turma Recursal, unânime). ([íntegra](../../jurisprudencia/5025504-36.2025.4.03.6301.md))
+
+> "[...] tendo a ré limitado a informar que à demandante compete aguardar 'os processos de seleção e concessão de benefícios do PBF, segundo os critérios impessoais do Programa', argumento que não merece guarida, porquanto de caráter genérico e esvaziado de embasamento jurídico."
+
+Dispositivo: recurso da União desprovido; sentença de procedência mantida (art. 46 da Lei 9.099/95).
+
+### 9. Erro operacional superado por regularização cadastral — direito subjetivo à reinclusão; ônus da União
+
+**Citação:** RC 5004605-51.2026.4.04.7110, Turma Recursal Suplementar de Equalização do Rio Grande do Sul (TRF4). Relator Juiz Federal Adriano Enivaldo de Oliveira, julgado em 31/08/2026. Natureza: jurisprudência (acórdão de Turma Recursal, unânime). ([íntegra](../../jurisprudencia/5004605-51.2026.4.04.7110.md))
+
+> "Comprovada a regularização do cadastro e a preenchimento dos requisitos legais, cumpre à União demonstrar óbice concreto e justificável para a manutenção da suspensão."
+
+Dispositivo: recurso da parte autora provido; procedência dos pedidos de reinclusão e pagamento das parcelas devidas.
+
+### 10. Dotação orçamentária não comprovada — USO RESTRITO
+
+**Citação:** RI 0040701-77.2023.4.05.8000, Turma Recursal da Seção Judiciária de Alagoas (TRF5). Relator Juiz Federal Sergio José Wanderley de Mendonça, acórdão assinado em 19/06/2024 (PJe TRF5, Id. 47364559). Natureza: jurisprudência (acórdão de Turma Recursal, unânime). ([íntegra](../../jurisprudencia/0040701-77.2023.4.05.8000.md))
+
+> "Quanto à alegação de que o benefício depende de dotação orçamentária, a União não comprova que em 07/2023 não havia previsão orçamentária para efetivar o pagamento da autora, devendo ser mantida a decisão recorrida como posta."
+
+Cautela: o PBF tem limitação orçamentária legal (art. 11, § 1º, da Lei 14.601/2023); a tese é frágil. Usar só como reforço quando a União invocar a restrição de forma genérica — nunca como fundamento principal.
+
 ## Pedidos
 
 1. Justiça gratuita e reconhecimento das prerrogativas processuais da DPU (prazo em dobro, intimação pessoal etc.).
