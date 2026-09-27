@@ -63,6 +63,14 @@ Dispositivo: procedência, com restabelecimento e pagamento das parcelas devidas
 
 Dispositivo: "Dou provimento ao recurso da parte autora para julgar procedente o pedido inicial, condenando a União Federal a pagar, na via administrativa, parcelas do Programa Bolsa Família relativas aos meses de 03/2023 a 08/2023." Este acórdão é o paradigma citado no incidente de uniformização mencionado em Observações, abaixo.
 
+### 6. Exclusão por erro da Administração — restabelecer, e não colocar em "nova fila de ingresso"; disponibilidade orçamentária não se aplica
+
+**Citação:** RI 0056844-35.2023.4.05.8100, 1ª Relatoria da 2ª Turma Recursal da Seção Judiciária do Ceará (TRF5). Relator Juiz Federal Gustavo Melo Barbosa, acórdão assinado em 26/09/2024 (PJe TRF5, Id. 54289251). Natureza: jurisprudência (acórdão de Turma Recursal, unânime). ([íntegra](../../jurisprudencia/0056844-35.2023.4.05.8100.md))
+
+> "[...] considerando que a própria Administração parece que reconheceu o erro na exclusão, não deveria ter colocado a demandante em uma nova fila de ingresso, mas sim restabelecer o benefício. [...] Assim, as regras invocadas pela União quanto à disponibilidade orçamentária não se aplicam à espécie."
+
+Dispositivo: provimento do recurso da parte autora, com condenação da União ao pagamento das parcelas desde a cessação (setembro de 2022) e tutela de urgência para imediata reimplantação. Precedente de outra região (TRF5), útil para afastar a alegação de "ausência de direito subjetivo"/reserva do possível quando a própria Administração admite a regularização cadastral e mesmo assim remete o beneficiário à fila de novos ingressos.
+
 ## Pedidos
 
 1. Justiça gratuita e reconhecimento das prerrogativas processuais da DPU (prazo em dobro, intimação pessoal etc.).
