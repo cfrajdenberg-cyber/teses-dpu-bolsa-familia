@@ -76,7 +76,7 @@ Sentença de origem do mesmo processo (1º grau, SJMT): Juíza Luciane Benedita 
 3. Dispensa de entrevista/cadastro domiciliar (Portaria MDS 1.070/2025 e/ou IN SAGICAD/MDS 20/2026, art. 1º, V).
 4. Tutela de urgência, dada a natureza alimentar do benefício e, quando aplicável, a situação de insegurança alimentar.
 5. Pagamento das parcelas desde a data da inscrição ou atualização do CadÚnico com o marcador de situação de rua (ou desde a data em que a vulnerabilidade restou comprovada nos autos, conforme o caso).
-6. Condenação em honorários sucumbenciais, revertidos ao FADPU (Tema 1.002/STF; Súmula 421/STJ cancelada).
+6. Condenação em honorários sucumbenciais, revertidos ao FADPU (Tema 1.002/STF; Súmula 421/STJ cancelada). **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 
 ## Modelo de peça
 

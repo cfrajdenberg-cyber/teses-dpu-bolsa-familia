@@ -68,7 +68,7 @@ Julgou procedente o pedido, concedendo tutela antecipada para condenar a União 
 2. Tutela antecipada/de urgência para reintegração ou manutenção da família no Programa, com pagamento de 50% do valor do benefício (art. 6º, §2º).
 3. Pagamento pelo período remanescente até completar o prazo da Regra de Proteção — **24 meses se o enquadramento se deu até junho/2025 (art. 54-A da Portaria 897/2023); 12 meses se posterior (arts. 20 e 21, na redação da Portaria MDS nº 1.084/2025)** —, contados do marco em que a renda per capita passou a superar o limite de elegibilidade, com abatimento de eventuais parcelas já recebidas nesse ínterim.
 4. Subsidiariamente, para o caso de já esgotado o período de proteção: reconhecimento da **prioridade de reingresso** no Programa (art. 6º, § 3º, II, da Lei 14.601/2023), cumpridos os requisitos do § 4º.
-5. Condenação em honorários sucumbenciais, revertidos ao FADPU (Tema 1.002/STF; Súmula 421/STJ cancelada).
+5. Condenação em honorários sucumbenciais, revertidos ao FADPU (Tema 1.002/STF; Súmula 421/STJ cancelada). **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 
 ## Modelo de peça
 

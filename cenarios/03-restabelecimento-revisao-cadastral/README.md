@@ -105,12 +105,12 @@ Cautela: o PBF tem limitação orçamentária legal (art. 11, § 1º, da Lei 14.
 
 ## Pedidos
 
-1. Justiça gratuita e reconhecimento das prerrogativas processuais da DPU (prazo em dobro, intimação pessoal etc.).
+1. Justiça gratuita e reconhecimento das prerrogativas processuais da DPU (intimação pessoal; no Juizado Especial Federal não se pede prazo em dobro nem se abre capítulo de tempestividade).
 2. Reconhecimento da legitimidade passiva da União Federal.
 3. Tutela de urgência para restabelecimento imediato do benefício, independentemente da trava de 16% de unipessoais, por se tratar de restabelecimento e não de novo ingresso.
 4. Procedência do pedido para determinar o restabelecimento definitivo do Programa Bolsa Família.
 5. Pagamento das parcelas retroativas desde a data do cancelamento ou bloqueio indevido (observado, quando cabível, o marco de 27/12/2024 nos termos do Tema 379 da TNU *a contrario sensu*).
-6. Honorários sucumbenciais revertidos à DPU/FADPU, ainda que o vencido seja a própria União (Tema 1.002 do STF; Súmula 421/STJ cancelada).
+6. Honorários sucumbenciais revertidos à DPU/FADPU, ainda que o vencido seja a própria União (Tema 1.002 do STF; Súmula 421/STJ cancelada). **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 7. Prequestionamento expresso dos dispositivos legais e constitucionais invocados.
 
 ## Modelo de peça

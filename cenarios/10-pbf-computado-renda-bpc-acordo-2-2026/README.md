@@ -144,7 +144,7 @@ orientar o assistido e, se necessário, requerer administrativamente:
    concessão do BPC.
 3. Condenação em honorários sucumbenciais em favor da Defensoria Pública
    da União, revertidos ao FADPU (Tema 1.002/STF; Súmula 421/STJ
-   cancelada).
+   cancelada). **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 
 ## Modelo de peça
 

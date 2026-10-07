@@ -71,7 +71,7 @@ Dispositivo: recurso da própria autora (Viviane da Silva) parcialmente provido 
 3. Procedência do pedido para confirmar a reinclusão do assistido no Programa Bolsa Família.
 4. Pagamento dos valores retroativos devidos desde a data do bloqueio indevido.
 5. Indenização por dano moral *in re ipsa*, no valor sugerido de R$ 5.000,00 — patamar efetivamente fixado nos julgados de referência acima.
-6. Honorários sucumbenciais revertidos à DPU/FADPU (Tema 1.002 do STF).
+6. Honorários sucumbenciais revertidos à DPU/FADPU (Tema 1.002 do STF). **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 
 ## Documentação mínima
 

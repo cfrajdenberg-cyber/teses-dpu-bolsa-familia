@@ -39,6 +39,13 @@ Cada cenário em [`cenarios/`](cenarios/) corresponde a uma situação fática r
 - Evitar "pacífico", "uníssono", "consolidado" sem fonte primária específica — a jurisprudência sobre Bolsa Família ainda está em construção em vários pontos (ver especialmente o Tema 379 da TNU, cuja tese fixada é **favorável à legalidade** da trava de 16% a partir de dezembro/2024, e não à sua ilegalidade ampla — o voto que defendia a ilegalidade ampla foi vencido).
 - Nenhum dado pessoal de assistido (CPF, endereço, contato) é incluído neste repositório. Nomes de partes em decisões judiciais são mantidos apenas quando fazem parte da citação oficial do julgado (prática normal de citação jurídica, autos públicos) — nunca em modelos de petição, que permanecem genéricos.
 
+## Regras do Juizado Especial Federal
+
+- **Honorários:** no JEF, o pedido de honorários só cabe nas **contrarrazões** a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95; Tema 1.002 do STF). Não incluir na petição inicial, na réplica, em manifestações nem em recurso inominado interposto pela DPU. Fora do rito dos Juizados, segue a regra geral do CPC.
+- **Prazo em dobro:** no JEF, a peça não afirma prazo em dobro para a DPU, não cita o art. 186 do CPC e não abre capítulo de tempestividade apoiado em prazo em dobro. Réplica e manifestações não levam capítulo de tempestividade nem de prerrogativas.
+- **Sobrestamento por tema pendente (Tema 1.472/STF):** reservado à hipótese em que a trava de 16% é o único obstáculo restante e a alternativa é a improcedência; não pedir enquanto houver tutela de urgência pendente ou providência que independe do tema (ex.: entrevista domiciliar ainda não realizada).
+- Modelos e exemplos antigos que tragam pedido de honorários em primeiro grau ou “prazo em dobro” devem ter esses trechos retirados ao serem adaptados para o JEF.
+
 ## Regra de valor da causa
 
 - **Regra geral** (art. 292, § 1º, do CPC — prestações vencidas e vincendas): soma de 12 (doze) parcelas vincendas (R$ 600,00 × 12 = R$ 7.200,00) **com** as parcelas vencidas/atrasados, quando houver. Aplica-se a qualquer pedido de concessão ou restabelecimento do benefício (cenários 1, 2, 3, 4, 6, 7, 8, 9, 10), pois há prestações futuras em discussão.

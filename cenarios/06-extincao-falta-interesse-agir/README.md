@@ -51,7 +51,7 @@ Decisão de tutela de urgência, id. 595452906, de 21/07/2026, 1ª Vara Gabinete
 1. **Reforma (em recurso) ou anulação (em preliminar de contestação/réplica) da sentença extintiva**, afastando a aplicação do art. 485, VI, do CPC.
 2. **Determinação de que o Município, em cooperação com a União, realize a entrevista domiciliar em 30 (trinta) dias** contados da intimação da decisão.
 3. **Determinação de que, após a entrevista, a União analise o caso e decida sobre o reingresso/concessão em 15 (quinze) dias** contados da conclusão da visita, comunicando o resultado e juntando a decisão administrativa aos autos.
-4. **Honorários sucumbenciais em favor da DPU**, quando cabíveis diante do resultado do recurso, revertidos ao FADPU (STF, Tema 1.002).
+4. **Honorários sucumbenciais em favor da DPU**, quando cabíveis diante do resultado do recurso, revertidos ao FADPU (STF, Tema 1.002). **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 
 ### Dispositivo consagrado (usar tanto em pedido de tutela na inicial quanto em recurso inominado contra sentença extintiva)
 

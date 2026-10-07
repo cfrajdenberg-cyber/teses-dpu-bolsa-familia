@@ -49,7 +49,7 @@ Fonte: [`../../jurisprudencia/5001821-03.2023.4.04.7112.md`](../../jurisprudenci
 1. **Tutela de urgência** para que a Administração conclua a análise/pré-habilitação e implante o benefício de imediato, sob pena de multa diária.
 2. **Procedência do pedido principal**, condenando a União ao pagamento das parcelas devidas desde a última atualização cadastral (ou, nos casos de pré-habilitação com mora superior a um ano, desde a data da pré-habilitação).
 3. **Perícia social**, caso haja indício de insegurança alimentar, nos termos da Portaria MDS nº 1.097/2025.
-4. **Honorários sucumbenciais em favor da DPU**, revertidos ao FADPU (STF, Tema 1.002 — cabíveis mesmo contra a União; Súmula 421/STJ cancelada).
+4. **Honorários sucumbenciais em favor da DPU**, revertidos ao FADPU (STF, Tema 1.002 — cabíveis mesmo contra a União; Súmula 421/STJ cancelada). **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 5. **Prequestionamento** dos dispositivos constitucionais e legais invocados (art. 6º, parágrafo único, CF/88; art. 49 da Lei 9.784/99; Lei 14.601/2023).
 6. Gratuidade de justiça.
 

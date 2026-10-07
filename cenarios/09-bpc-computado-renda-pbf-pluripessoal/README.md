@@ -194,7 +194,7 @@ Esqueleto de pedidos, a adaptar ao caso concreto:
    indeferimento, cessação ou exclusão indevida.
 4. Condenação em honorários sucumbenciais em favor da Defensoria Pública
    da União, revertidos ao FADPU, inclusive contra a União (Tema 1.002/STF;
-   Súmula 421/STJ cancelada).
+   Súmula 421/STJ cancelada). **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 
 ## Modelo de peça
 

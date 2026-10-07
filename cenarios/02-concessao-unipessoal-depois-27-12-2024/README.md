@@ -119,7 +119,7 @@ Link: [../../jurisprudencia/5020886-48.2025.4.03.6301.md](../../jurisprudencia/5
 - Pedido **principal**: concessão, atualização ou reingresso imediatos no Programa Bolsa Família, com fundamento na Portaria MDS nº 1.199/2026 e no Acordo nº 4/2026, dispensada a entrevista domiciliar.
 - Pedido **subsidiário** (de reserva, para o caso de o juízo entender pela persistência da exigência de entrevista): tutela para realização de entrevista domiciliar pelo Município, em cooperação com a União, em até 30 dias, sob pena de multa diária, e decisão da União em até 15 dias após a entrevista — nos termos do modelo de dispositivo do acórdão RI 5020886-48.2025.4.03.6301.
 - Pagamento das parcelas vencidas desde a data da atualização cadastral.
-- Honorários sucumbenciais em favor da DPU, revertidos ao FADPU.
+- Honorários sucumbenciais em favor da DPU, revertidos ao FADPU. **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 - Prequestionamento: mesma lista do cenário 1, acrescida do art. 12-A da Lei nº 14.601/2023 como objeto da arguição de inconstitucionalidade incidental.
 
 ## Modelo de peça

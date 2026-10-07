@@ -52,7 +52,7 @@ Link: [../../jurisprudencia/0044230-77.2023.4.05.8300.md](../../jurisprudencia/0
 - Tutela de urgência para implantação/restabelecimento imediato do benefício.
 - Procedência do pedido, condenando a União a conceder ou restabelecer o Programa Bolsa Família.
 - Pagamento das parcelas retroativas desde a data da regularização cadastral (termo inicial) até a vigência do art. 12-A da Lei nº 14.601/2023, quando aplicável a delimitação do marco final por força do Tema 379 da TNU.
-- Honorários sucumbenciais em favor da DPU (art. 55 da Lei nº 9.099/95 c/c Tema 1.002 do STF, RE 1.140.005), revertidos ao FADPU.
+- Honorários sucumbenciais em favor da DPU (art. 55 da Lei nº 9.099/95 c/c Tema 1.002 do STF, RE 1.140.005), revertidos ao FADPU. **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 - Prequestionamento expresso: CF, arts. 1º, III; 2º; 3º, III; 5º, *caput* e II; 6º, *caput* e parágrafo único; MI 7.300/DF; Lei nº 10.835/2004, art. 1º c/c §1º; Lei nº 9.784/99, art. 49; Lei nº 14.601/2023, arts. 1º, 5º e 12-A.
 
 ## Modelo de peça

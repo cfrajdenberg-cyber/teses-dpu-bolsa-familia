@@ -38,7 +38,7 @@ Fonte: [`../../jurisprudencia/5031508-26.2024.4.03.6301.md`](../../jurisprudenci
 ## Pedidos
 
 - Condenação da União ao pagamento das parcelas vencidas desde o marco temporal cabível ao cenário de origem (regularização cadastral, cancelamento indevido ou pré-habilitação), com juros e correção monetária na forma da fundamentação.
-- Honorários sucumbenciais revertidos ao FADPU (DPU é legitimada a honorários mesmo contra a União — Tema 1.002/STF; Súmula 421/STJ cancelada).
+- Honorários sucumbenciais revertidos ao FADPU (DPU é legitimada a honorários mesmo contra a União — Tema 1.002/STF; Súmula 421/STJ cancelada). **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 
 ## Modelo de peça
 
