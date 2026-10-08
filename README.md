@@ -43,7 +43,7 @@ Cada cenário em [`cenarios/`](cenarios/) corresponde a uma situação fática r
 
 - **Honorários:** no JEF, o pedido de honorários só cabe nas **contrarrazões** a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95; Tema 1.002 do STF). Não incluir na petição inicial, na réplica, em manifestações nem em recurso inominado interposto pela DPU. Fora do rito dos Juizados, segue a regra geral do CPC.
 - **Prazo em dobro:** no JEF, a peça não afirma prazo em dobro para a DPU, não cita o art. 186 do CPC e não abre capítulo de tempestividade apoiado em prazo em dobro. Réplica e manifestações não levam capítulo de tempestividade nem de prerrogativas.
-- **Sobrestamento por tema pendente (Tema 1.472/STF):** reservado à hipótese em que a trava de 16% é o único obstáculo restante e a alternativa é a improcedência; não pedir enquanto houver tutela de urgência pendente ou providência que independe do tema (ex.: entrevista domiciliar ainda não realizada).
+- **Suspensão pelo Tema 1.472/STF:** o pedido de suspensão pelo Tema 1.472 do STF cabe **apenas em recurso inominado**, ao final do recurso, como tese subsidiária e sem prejuízo dos demais fundamentos de reforma, quando a sentença tiver negado o benefício pelo índice máximo de famílias unipessoais por município como condição de ingresso no Programa Bolsa Família; não se pede suspensão em petição inicial, réplica, manifestação ou contrarrazões.
 - Modelos e exemplos antigos que tragam pedido de honorários em primeiro grau ou “prazo em dobro” devem ter esses trechos retirados ao serem adaptados para o JEF.
 
 ## Regra de valor da causa
