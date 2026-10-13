@@ -58,9 +58,11 @@ Link: [../../jurisprudencia/0044230-77.2023.4.05.8300.md](../../jurisprudencia/0
 ## Modelo de peça
 
 - **Petição inicial:** "Petição Padrão CCRCivel - Programa Bolsa Família -  Família Unipessoal - Irretroatividade - Tema 379 TNU - ANTES da lei 15077 - Petição Inicial.docx".
-- **Recurso inominado:** "Petição Padrão CCR Cível - Programa Bolsa Família - Família Unipessoal - Tema 379 TNU - casos ANTES da Lei 15.077 - Recurso Inominado.docx".
+- **Recurso inominado:** "Petição Padrão CCR Cível - Programa Bolsa Família - Família Unipessoal - Tema 379 TNU - casos ANTES da Lei 15.077 - Recurso Inominado.odt".
+- **Embargos de declaração contra sentença:** "Petição Padrão CCRCivel - Programa Bolsa Família - Família Unipessoal - Tema 379 TNU - ANTES da lei 15077 - Embargos de Declaração - Sentença.docx".
+- **Embargos de declaração contra acórdão de Turma Recursal:** "Petição Padrão CCRCivel - Programa Bolsa Família - Família Unipessoal - Tema 379 TNU - ANTES da lei 15077 - Embargos de Declaração - Acórdão TR.docx".
 
-Ambos os modelos estão disponíveis em [`modelos-ccr/peticoes/`](../../modelos-ccr/peticoes/).
+Os quatro modelos são as **versões atualizadas pela CCR Cível em outubro/2026** (Acordo MDS/INSS/DPU nº 4/2026 e repercussão geral do Tema 1.472 do STF) e estão disponíveis em [`modelos-ccr/peticoes/`](../../modelos-ccr/peticoes/).
 
 ## Documentação mínima
 
@@ -77,3 +79,10 @@ Ambos os modelos estão disponíveis em [`modelos-ccr/peticoes/`](../../modelos-
 - Como o Tema 379 ainda não transitou em julgado, recomenda-se acompanhar o **RE 1.614.224** (Tema 1.472 do STF, repercussão geral já reconhecida, pendente de julgamento), interposto após a rejeição, por unanimidade em 11/03/2026, dos Embargos de Declaração da DPU (PAJ 2025/039-00144) — o RE pode alterar o panorama aqui descrito.
 
 - **Tema 1.472/STF — situação conferida no portal do STF em 27/09/2026:** leading case RE 1.614.224 (número único 0044230-77.2023.4.05.8300, o próprio processo do Tema 379), relator Ministro Presidente; repercussão geral reconhecida por unanimidade em 19/08/2026, acórdão publicado no DJe de 24/09/2026; mérito pendente; sem suspensão nacional (art. 1.035, § 5º, do CPC) até essa data. Título oficial: "Limite de famílias unipessoais por município como condicionante de ingresso no Programa Bolsa Família". Diante de **sentença desfavorável** que negou o benefício pelo índice máximo de famílias unipessoais (pedido de **ingresso**, fato posterior a 27/12/2024), pedir a suspensão pelo Tema 1.472 **apenas no recurso inominado**, ao final, como tese subsidiária e sem prejuízo dos demais fundamentos de reforma — nunca em inicial, réplica, manifestação ou contrarrazões; mantido o resultado pela Turma Recursal, interpor RE (sobrestado na origem — art. 1.030, III, do CPC); em casos favoráveis (restabelecimento, ou fato anterior a 27/12/2024), opor-se ao sobrestamento, pois o tema trata da trava como condicionante do **ingresso**. O "PUIL representativo de controvérsia" admitido pela TNU em 11/04/2025 é a afetação do próprio Tema 379 — não há outro incidente pendente na TNU.
+
+- **Modelos atualizados pela CCR Cível em outubro/2026 — o que mudou** (resumo em [`docs/informativo-ccr-out-2026.md`](../../docs/informativo-ccr-out-2026.md)):
+  - capítulo próprio sobre o **caráter restitutório da pretensão**, a usar só quando o caso for de restabelecimento: o limite de 16% e a tese do Tema 379 referem-se ao **ingresso** de novas famílias unipessoais, não a quem já era beneficiário;
+  - **tese subsidiária da entrevista domiciliar** (ou de outro grupo excepcional do art. 6º, §3º, da Portaria MDS nº 897/2023), com pedido de suprimento judicial da entrevista quando o ente público, oficiado, permaneceu inerte;
+  - inconstitucionalidade do art. 12-A como argumento subsidiário, com registro de que a repercussão geral do Tema 1.472 foi reconhecida (acórdão no DJe de 24/09/2026) e de que isso não suspende automaticamente os processos (art. 1.035, § 5º, do CPC);
+  - **embargos de declaração** (art. 48 da Lei nº 9.099/95 e art. 1.022, II, do CPC), com efeitos infringentes e prequestionamento, contra sentença ou acórdão de Turma Recursal que aplique o limite a fato anterior a 27/12/2024 sem enfrentar o marco temporal do Tema 379, o caráter restitutório, o pedido subsidiário de entrevista, a inconstitucionalidade do art. 12-A ou o Tema 1.472;
+  - se o benefício foi bloqueado ou cancelado apenas por falta de atualização mediante visita domiciliar (salvo família em averiguação cadastral), avaliar acrescentar a tese da dispensa temporária da entrevista até 01/07/2027 (Acordo nº 4/2026 e Portaria MDS nº 1.199/2026) — nota de uso dos próprios modelos.

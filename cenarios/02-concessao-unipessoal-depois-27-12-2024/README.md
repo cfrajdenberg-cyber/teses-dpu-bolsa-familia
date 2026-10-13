@@ -4,13 +4,16 @@
 
 A partir de 27/12/2024, a trava de 16% de famílias unipessoais por município passou a ter lastro em lei formal (art. 12-A da Lei nº 14.601/2023, incluído pela Lei nº 15.077/2024), conforme reconhecido pela TNU no Tema 379. Por isso, a estratégia processual migra:
 
-**Tese principal, enquanto durar a suspensão da entrevista domiciliar** (até 01/07/2027, por força da Portaria MDS nº 1.199/2026 e do Acordo MDS/INSS/DPU nº 4/2026, homologado na ACP 5002171-51.2026.4.03.6000, 4ª Vara Federal da SJ de Campo Grande/MS): concessão, atualização ou reingresso **imediatos**, dispensada a entrevista domiciliar, sem necessidade de arguir mora ou inconstitucionalidade para esse fim específico.
+**Primeiro passo — distinguir manutenção de nova inclusão** (Informativo CCR Cível de outubro/2026; Informes Cadastro Único nº 97 e nº 98 do MDS — resumo em [`docs/informativo-ccr-out-2026.md`](../../docs/informativo-ccr-out-2026.md)):
 
-Ressalva do Acordo nº 4/2026 (cláusula 3ª, §2º): a entrevista domiciliar continua obrigatória para (a) novas inclusões no PBF e (b) famílias em averiguação cadastral/apuração de indício de irregularidade — salvo enquadramento em um dos oito grupos excepcionais do art. 1º, I a VIII, da IN SAGICAD/MDS nº 20/2026 (área de violência; localidade de difícil acesso; calamidade/emergência/desastre; programa de proteção ou medida protetiva; situação de rua; indígena; quilombola; domicílio coletivo), caso em que a dispensa é autônoma e vale mesmo para novas inclusões. Ressalva adicional (cláusula 8ª): a suspensão não gera direito automático à concessão — apenas afasta a ausência de entrevista como óbice; os demais requisitos de elegibilidade continuam a ser exigidos e demonstrados.
+- **Unipessoal já beneficiária** — atualização cadastral para manter o benefício, ou restabelecimento do que foi bloqueado/cancelado só por falta da visita: até 01/07/2027 a entrevista domiciliar está **dispensada** (Portaria MDS nº 1.199/2026 e Acordo MDS/INSS/DPU nº 4/2026, homologado na ACP 5002171-51.2026.4.03.6000, 4ª Vara Federal da SJ de Campo Grande/MS, com efeitos de coisa julgada coletiva nacional). Orientar primeiro a atualização presencial no CRAS ou no posto do CadÚnico; persistindo a exigência, pedir a regularização cadastral e a manutenção/restabelecimento **imediatos**, sem entrevista.
+- **Nova inclusão (ingresso)** de unipessoal ainda não beneficiária, com perfil de renda: a entrevista domiciliar **continua exigida**, salvo grupo excepcional. A tese principal é a realização da entrevista em prazo certo, ou o seu suprimento judicial — a entrevista afasta, por si só, o limite de 16% (art. 6º, §3º, IX, da Portaria MDS nº 897/2023) —, cumulada com a inconstitucionalidade incidental do art. 12-A, com prequestionamento explícito (Tema 1.472 do STF).
 
-**Tese subsidiária** (de reserva, para o caso de o juízo entender pela persistência da exigência de entrevista, e também útil após 01/07/2027, quando a entrevista voltar a ser exigível): inconstitucionalidade incidental do art. 12-A da Lei nº 14.601/2023, por violação à dignidade da pessoa humana e ao mínimo existencial, por delegação legislativa em branco ao Poder Executivo, por ofensa à erradicação da pobreza, por discriminação em razão de configuração familiar e fator geográfico, por violação ao direito à alimentação e à renda básica de cidadania, e por afronta à vedação ao retrocesso social.
+Ressalva do Acordo nº 4/2026 (cláusula 3ª, §2º): a entrevista domiciliar continua obrigatória para (a) novas inclusões no PBF e (b) famílias em averiguação cadastral/apuração de indício de irregularidade — salvo enquadramento em um dos grupos excepcionais do art. 1º, I a IX, da IN SAGICAD/MDS nº 20/2026, com a redação da IN nº 22/2026 (área de violência; localidade de difícil acesso; calamidade/emergência/desastre; programa de proteção ou medida protetiva; situação de rua; indígena; quilombola; domicílio coletivo; e demais Grupos Populacionais Tradicionais e Específicos – GPTE), caso em que a dispensa é autônoma e vale mesmo para novas inclusões. Ressalva adicional (cláusula 8ª): a suspensão não gera direito automático à concessão — apenas afasta a ausência de entrevista como óbice; os demais requisitos de elegibilidade continuam a ser exigidos e demonstrados.
 
-**Atenção quanto ao Tema 379 da TNU.** Diferentemente do cenário 1, aqui a tese fixada pela TNU (PEDILEF 0044230-77.2023.4.05.8300) deve ser citada em seu sentido literal: a trava de 16% é **legal** a partir da vigência do art. 12-A da Lei nº 14.601/2023 (dez/2024). É exatamente por isso que, para fatos posteriores a essa data, a discussão sobre a mera ilegalidade da portaria deixa de ser viável e a estratégia passa a apoiar-se (i) na dispensa temporária da entrevista domiciliar por força da Portaria MDS nº 1.199/2026 e do Acordo nº 4/2026, e (ii) subsidiariamente, na inconstitucionalidade incidental do próprio art. 12-A.
+**Inconstitucionalidade incidental do art. 12-A** (tese central nos casos de nova inclusão, ao lado do pedido de entrevista; de reserva nos casos de manutenção; segue útil após 01/07/2027, quando a entrevista voltar a ser exigível para todos): inconstitucionalidade incidental do art. 12-A da Lei nº 14.601/2023, por violação à dignidade da pessoa humana e ao mínimo existencial, por delegação legislativa em branco ao Poder Executivo, por ofensa à erradicação da pobreza, por discriminação em razão de configuração familiar e fator geográfico, por violação ao direito à alimentação e à renda básica de cidadania, e por afronta à vedação ao retrocesso social.
+
+**Atenção quanto ao Tema 379 da TNU.** Diferentemente do cenário 1, aqui a tese fixada pela TNU (PEDILEF 0044230-77.2023.4.05.8300) deve ser citada em seu sentido literal: a trava de 16% é **legal** a partir da vigência do art. 12-A da Lei nº 14.601/2023 (dez/2024). É exatamente por isso que, para fatos posteriores a essa data, a discussão sobre a mera ilegalidade da portaria deixa de ser viável e a estratégia passa a apoiar-se (i) na realização ou no suprimento judicial da entrevista domiciliar — ou na sua dispensa, quando se tratar de quem já é beneficiário ou de grupo excepcional — e (ii) na inconstitucionalidade incidental do próprio art. 12-A, questão hoje submetida ao STF no Tema 1.472.
 
 ## Base legal
 
@@ -19,7 +22,8 @@ Ressalva do Acordo nº 4/2026 (cláusula 3ª, §2º): a entrevista domiciliar co
 - Portaria MDS nº 897/2023, art. 6º, §§2º e 3º (incisos, inclusive VI e IX), na redação das Portarias MDS nº 911/2023 e nº 1.003/2024.
 - Portaria MDS nº 1.199/2026 (suspensão da entrevista domiciliar unipessoal BPC/PBF até 01/07/2027).
 - Acordo MDS/INSS/DPU nº 4/2026, homologado na ACP 5002171-51.2026.4.03.6000 (4ª Vara Federal da SJ de Campo Grande/MS), cláusulas 3ª, §2º, e 8ª.
-- IN SAGICAD/MDS nº 20/2026, art. 1º, I a VIII (grupos excepcionais).
+- IN SAGICAD/MDS nº 20/2026, art. 1º, I a IX, com a redação da IN SAGICAD/MDS nº 22/2026, de 03/08/2026 (grupos excepcionais; o inciso IX — demais Grupos Populacionais Tradicionais e Específicos, GPTE — foi incluído pela IN nº 22).
+- Portaria MDS nº 897/2023, art. 10, §§1º e 2º (redação da Portaria MDS nº 1.070/2025), e Decreto nº 12.064/2024, art. 18, §3º (incluído pelo Decreto nº 12.417/2025) — entrevista domiciliar como condição de **ingresso** da família unipessoal.
 - Decreto nº 12.064/2024 (operacionalização do CadÚnico/entrevista pelo Município).
 - Memorando Circular nº 8747849/2026-DPGU/CCRCIVEL (recomendação da tese subsidiária de inconstitucionalidade).
 - CF/88, art. 1º, III (dignidade da pessoa humana e mínimo existencial; MI 7.300/DF); art. 2º e art. 5º, II (delegação legislativa em branco); art. 3º, III (erradicação da pobreza); art. 5º, *caput* e I (discriminação por configuração familiar e fator geográfico); art. 6º, *caput* (direito à alimentação); art. 6º, parágrafo único (renda básica de cidadania, Lei nº 10.835/2004); princípio da vedação ao retrocesso social.
@@ -112,21 +116,23 @@ Link: [../../jurisprudencia/5020886-48.2025.4.03.6301.md](../../jurisprudencia/5
 
 ## Pedidos
 
-**Enquanto durar a suspensão da entrevista domiciliar (até 01/07/2027):**
+**Conforme o caso seja de manutenção ou de nova inclusão (ver a seção Tese):**
 
 - Justiça gratuita e reconhecimento das prerrogativas processuais da DPU.
 - Reconhecimento da legitimidade passiva da União e do Município (litisconsórcio facultativo, dada a operacionalização do CadÚnico/entrevista pelo Município).
-- Pedido **principal**: concessão, atualização ou reingresso imediatos no Programa Bolsa Família, com fundamento na Portaria MDS nº 1.199/2026 e no Acordo nº 4/2026, dispensada a entrevista domiciliar.
-- Pedido **subsidiário** (de reserva, para o caso de o juízo entender pela persistência da exigência de entrevista): tutela para realização de entrevista domiciliar pelo Município, em cooperação com a União, em até 30 dias, sob pena de multa diária, e decisão da União em até 15 dias após a entrevista — nos termos do modelo de dispositivo do acórdão RI 5020886-48.2025.4.03.6301.
+- Se o assistido **já é beneficiário** (manutenção, ou restabelecimento de benefício bloqueado/cancelado só por falta da visita): regularização cadastral e manutenção ou restabelecimento imediatos, com fundamento na Portaria MDS nº 1.199/2026 e no Acordo nº 4/2026, dispensada a entrevista domiciliar.
+- Se o caso é de **nova inclusão** (e, nos demais, como pedido de reserva): tutela para realização de entrevista domiciliar pelo Município, em cooperação com a União, em até 30 dias, sob pena de multa diária, e decisão da União em até 15 dias após a entrevista — nos termos do modelo de dispositivo do acórdão RI 5020886-48.2025.4.03.6301.
+- Na nova inclusão: reconhecimento incidental da inconstitucionalidade do art. 12-A da Lei nº 14.601/2023 e, não realizada a entrevista por falha do Poder Público, o seu suprimento judicial, com aplicação do art. 6º, §3º, IX, da Portaria MDS nº 897/2023.
 - Pagamento das parcelas vencidas desde a data da atualização cadastral.
 - Honorários sucumbenciais em favor da DPU, revertidos ao FADPU. **Atenção — Juizado Especial Federal:** no JEF, o pedido de honorários só cabe nas contrarrazões a recurso inominado da parte contrária (art. 55 da Lei nº 9.099/95); não incluir na petição inicial, na réplica nem em recurso inominado interposto pela DPU.
 - Prequestionamento: mesma lista do cenário 1, acrescida do art. 12-A da Lei nº 14.601/2023 como objeto da arguição de inconstitucionalidade incidental.
 
 ## Modelo de peça
 
-- **Petição inicial:** "Petição Padrão CCRCivel - Programa Bolsa Família -  Unipessoal - Inconstitucionalidade - art. 12-A - Após lei 15077 - Petição Inicial.docx".
+- **Petição inicial — nova inclusão, fato posterior a 27/12/2024:** "Petição Padrão CCRCivel - Programa Bolsa Família -  Unipessoal - Inconstitucionalidade - art. 12-A - Após lei 15077 - Petição Inicial.docx" (**versão atualizada pela CCR Cível em outubro/2026**: União e Município no polo passivo, entrevista domiciliar e Tema 1.472 do STF).
+- **Petição inicial — dispensa de entrevista domiciliar:** "Petição Padrão CCRCivel - Programa Bolsa Família e BPC - Dispensa de entrevista domiciliar - Acordo 4-2026 - Petição Inicial.docx" (**modelo novo, outubro/2026**), para unipessoal já beneficiária, para BPC ou para família de grupo excepcional. Não se aplica à nova inclusão de unipessoal fora dos grupos excepcionais.
 
-O modelo está disponível em [`modelos-ccr/peticoes/`](../../modelos-ccr/peticoes/).
+Os modelos estão disponíveis em [`modelos-ccr/peticoes/`](../../modelos-ccr/peticoes/).
 
 ## Documentação mínima
 
@@ -135,14 +141,22 @@ O modelo está disponível em [`modelos-ccr/peticoes/`](../../modelos-ccr/petico
 - Folha-resumo do CadÚnico completa (todas as páginas, com NIS, código familiar, data de atualização e item 1.08).
 - Print da consulta ao SIBEC.
 - Procuração ou ata de atendimento da DPU.
-- Quando aplicável, documentação que comprove enquadramento em um dos grupos excepcionais do art. 1º, I a VIII, da IN SAGICAD/MDS nº 20/2026 (situação de rua, indígena, quilombola, domicílio coletivo, área de violência, localidade de difícil acesso, calamidade/emergência/desastre, medida protetiva).
+- Quando aplicável, documentação que comprove enquadramento em um dos grupos excepcionais do art. 1º, I a IX, da IN SAGICAD/MDS nº 20/2026 (situação de rua, indígena, quilombola, domicílio coletivo, área de violência, localidade de difícil acesso, calamidade/emergência/desastre, medida protetiva, demais GPTE).
+- Quando o assistido já é beneficiário: comprovante do comparecimento ao CRAS ou ao posto do CadÚnico para a atualização presencial.
 
 ## Observações
 
 - Valor da causa: mesma fórmula do cenário 1 (12 parcelas vincendas, R$ 600,00 × 12 = R$ 7.200,00, somadas às vencidas quando houver) — ver a [regra geral e a exceção](../../README.md#regra-de-valor-da-causa) (quando o assistido já recebe o benefício e o pedido é só de atrasados, valor da causa = só os atrasados).
 - A suspensão da entrevista domiciliar não gera direito automático à concessão: os demais requisitos de elegibilidade continuam a ser exigidos e devem ser demonstrados (cláusula 8ª do Acordo nº 4/2026).
-- Para novas inclusões e para famílias em averiguação cadastral, a entrevista domiciliar continua obrigatória, salvo enquadramento em um dos oito grupos excepcionais da IN SAGICAD/MDS nº 20/2026.
+- Para novas inclusões e para famílias em averiguação cadastral, a entrevista domiciliar continua obrigatória, salvo enquadramento em um dos nove grupos excepcionais da IN SAGICAD/MDS nº 20/2026 (redação da IN nº 22/2026).
 - A tese subsidiária de inconstitucionalidade incidental do art. 12-A permanece útil mesmo após 01/07/2027, quando a exigência de entrevista domiciliar for retomada.
 - O Tema 379 da TNU ainda não transitou em julgado: os Embargos de Declaração da DPU (PAJ 2025/039-00144) foram rejeitados por unanimidade em 11/03/2026, e o Recurso Extraordinário interposto em seguida foi distribuído ao STF como **RE 1.614.224**, afetado ao **Tema 1.472 da repercussão geral** (já reconhecida), ainda pendente de julgamento (atualizado em 28/08/2026) — supera a referência anterior ao "ARE 1.550.140/PE". Acompanhar eventual alteração de panorama.
 
 - **Tema 1.472/STF — situação conferida no portal do STF em 27/09/2026:** leading case RE 1.614.224 (número único 0044230-77.2023.4.05.8300, o próprio processo do Tema 379), relator Ministro Presidente; repercussão geral reconhecida por unanimidade em 19/08/2026, acórdão publicado no DJe de 24/09/2026; mérito pendente; sem suspensão nacional (art. 1.035, § 5º, do CPC) até essa data. Título oficial: "Limite de famílias unipessoais por município como condicionante de ingresso no Programa Bolsa Família". Diante de **sentença desfavorável** que negou o benefício pelo índice máximo de famílias unipessoais (pedido de **ingresso**, fato posterior a 27/12/2024), pedir a suspensão pelo Tema 1.472 **apenas no recurso inominado**, ao final, como tese subsidiária e sem prejuízo dos demais fundamentos de reforma — nunca em inicial, réplica, manifestação ou contrarrazões; mantido o resultado pela Turma Recursal, interpor RE (sobrestado na origem — art. 1.030, III, do CPC); em casos favoráveis (restabelecimento, ou fato anterior a 27/12/2024), opor-se ao sobrestamento, pois o tema trata da trava como condicionante do **ingresso**. O "PUIL representativo de controvérsia" admitido pela TNU em 11/04/2025 é a afetação do próprio Tema 379 — não há outro incidente pendente na TNU.
+
+- **Informativo CCR Cível de outubro/2026 — pontos de atenção para este cenário** (resumo completo em [`docs/informativo-ccr-out-2026.md`](../../docs/informativo-ccr-out-2026.md)):
+  - a dispensa da entrevista até 01/07/2027 alcança a atualização cadastral de quem **já é beneficiário** e o BPC; na nova inclusão de unipessoal com perfil de renda a entrevista continua exigida;
+  - **dispensa da entrevista não é dispensa do limite de 16%**: na nova inclusão, o grupo excepcional da IN nº 20/2026 dispensa a entrevista, mas o limite municipal só é afastado se o grupo também constar do art. 6º, §3º, I a VIII, da Portaria MDS nº 897/2023; se não constar, acrescentar a tese do art. 12-A;
+  - os Informes Cadastro Único nº 97 e nº 98 e o Informe Bolsa Família nº 128, do MDS, podem ser juntados como documentos de apoio;
+  - casos em que Município ou CRAS ainda condicionem à visita o cadastro de unipessoal abrangida pelo Acordo nº 4/2026 devem ser comunicados a ccrcivel@dpu.def.br;
+  - os modelos de inicial da CCR pedem o regular prosseguimento do feito e, se o juízo entender pelo sobrestamento, a apreciação da tutela de urgência — é cautela contra o sobrestamento, não pedido de suspensão.

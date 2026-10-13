@@ -11,7 +11,7 @@ Cada cenário em [`cenarios/`](cenarios/) corresponde a uma situação fática r
 | Cenário | Situação |
 | --- | --- |
 | [01 — Concessão unipessoal, fato anterior a 27/12/2024](cenarios/01-concessao-unipessoal-antes-27-12-2024/) | Trava de 16% prevista só em portaria; ilegalidade/irretroatividade (Tema 379 TNU *a contrario sensu*) |
-| [02 — Concessão unipessoal, fato posterior a 27/12/2024](cenarios/02-concessao-unipessoal-depois-27-12-2024/) | Suspensão temporária da entrevista domiciliar até 01/07/2027; inconstitucionalidade incidental do art. 12-A |
+| [02 — Concessão unipessoal, fato posterior a 27/12/2024](cenarios/02-concessao-unipessoal-depois-27-12-2024/) | Nova inclusão: entrevista domiciliar (realização ou suprimento judicial) e inconstitucionalidade incidental do art. 12-A (Tema 1.472/STF); já beneficiário: dispensa da entrevista até 01/07/2027 |
 | [03 — Restabelecimento por revisão cadastral](cenarios/03-restabelecimento-revisao-cadastral/) | Trava de 16% não se aplica a quem já era beneficiário |
 | [04 — Restabelecimento por fraude no e-Social](cenarios/04-restabelecimento-fraude-esocial/) | Vínculo empregatício fraudulento cancela o benefício indevidamente; dano moral |
 | [05 — Mora irrazoável na análise administrativa](cenarios/05-mora-irrazoavel/) | Pré-habilitação sem conclusão; parâmetros de 130/75 dias (Enunciado 119 CCR) |
@@ -30,7 +30,7 @@ Cada cenário em [`cenarios/`](cenarios/) corresponde a uma situação fática r
 - **[`cenarios/`](cenarios/)** — os 14 cenários, cada um com tese, base legal, jurisprudência, pedidos e modelo de peça recomendado.
 - **[`jurisprudencia/`](jurisprudencia/)** — banco de decisões favoráveis citadas nos cenários, uma por processo, com citação completa (processo, órgão, relator/juiz, data) e trechos literais de ementa/voto/dispositivo. Nunca paráfrase — sempre texto oficial, extraído por leitura direta do PDF.
 - **[`modelos-ccr/`](modelos-ccr/)** — modelos institucionais em branco, curados pela CCR Cível da DPU: ofícios administrativos (`oficios/`) e petições padrão (`peticoes/`).
-- **[`docs/`](docs/)** — orientações operacionais transversais (ex.: [como consultar o SIBEC](docs/consulta-sibec.md)).
+- **[`docs/`](docs/)** — orientações operacionais transversais (ex.: [como consultar o SIBEC](docs/consulta-sibec.md); [Informativo CCR Cível de outubro/2026 — entrevista domiciliar, Tema 1.472/STF e Revisão Cadastral 2026](docs/informativo-ccr-out-2026.md)).
 
 ## Regras de citação
 

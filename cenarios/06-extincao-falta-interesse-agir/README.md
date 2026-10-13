@@ -13,8 +13,8 @@ A extinção do processo por falta de interesse de agir é incorreta nessa hipó
 
 ### Atualização normativa relevante
 
-- **Portaria MDS nº 1.199/2026** e **Acordo MDS/INSS/DPU nº 4/2026** (celebrado nos autos da ACP nº 5002171-51.2026.4.03.6000) — suspendem, até 01/07/2027, a exigência de entrevista domiciliar como condição para concessão/manutenção de PBF unipessoal já cadastrado. Ver ressalva obrigatória na seção "Observações" abaixo.
-- **IN SAGICAD/MDS nº 20/2026** — hipóteses excepcionais que dispensam o cadastro/entrevista domiciliar (área de violência, difícil acesso, calamidade/emergência/desastre, medida protetiva, situação de rua, indígenas, quilombolas, domicílio coletivo/instituição), aplicáveis independentemente da suspensão temporária acima.
+- **Portaria MDS nº 1.199/2026** e **Acordo MDS/INSS/DPU nº 4/2026** (celebrado nos autos da ACP nº 5002171-51.2026.4.03.6000) — dispensam, até 01/07/2027, a entrevista domiciliar na **atualização cadastral de unipessoal já beneficiária** do PBF (manutenção do benefício) e na inscrição/atualização ligada ao BPC; para a **nova inclusão** a entrevista continua exigida (Informativo CCR Cível de outubro/2026). Ver ressalva obrigatória na seção "Observações" abaixo.
+- **IN SAGICAD/MDS nº 20/2026** — hipóteses excepcionais que dispensam o cadastro/entrevista domiciliar (área de violência, difícil acesso, calamidade/emergência/desastre, medida protetiva, situação de rua, indígenas, quilombolas, domicílio coletivo/instituição e, desde a IN SAGICAD/MDS nº 22/2026, os demais Grupos Populacionais Tradicionais e Específicos – GPTE), aplicáveis independentemente da suspensão temporária acima.
 
 ## Jurisprudência
 
@@ -63,12 +63,12 @@ Não há modelo específico da CCR Cível para "extinção por falta de interess
 
 ## Observações
 
-**Atualização crítica — suspensão temporária da entrevista domiciliar (mencionar sempre neste cenário):** até 01/07/2027, por força da Portaria MDS nº 1.199/2026 e do Acordo MDS/INSS/DPU nº 4/2026 (celebrado na ACP nº 5002171-51.2026.4.03.6000), a entrevista domiciliar está temporariamente **suspensa** como condição para concessão/manutenção de PBF unipessoal.
+**Atualização crítica — suspensão temporária da entrevista domiciliar (mencionar sempre neste cenário):** até 01/07/2027, por força da Portaria MDS nº 1.199/2026 e do Acordo MDS/INSS/DPU nº 4/2026 (celebrado na ACP nº 5002171-51.2026.4.03.6000), a entrevista domiciliar está temporariamente **dispensada** na atualização cadastral de unipessoal **já beneficiária** do PBF (manutenção do benefício) e na inscrição/atualização ligada ao BPC — **não** na nova inclusão, em que continua exigida (Informativo CCR Cível de outubro/2026; Informes Cadastro Único nº 97 e nº 98 do MDS).
 
 Enquanto durar a suspensão:
 
-- A tese de "extinção por falta de interesse de agir" tende a **perder relevância** para casos de manutenção/atualização de unipessoal **já cadastrado**, porque o pedido passa a ser de concessão direta, sem entrevista como condição.
-- A tese **continua plenamente aplicável** a casos de **nova inclusão** no PBF ou de **averiguação cadastral/apuração de irregularidade**, hipóteses em que a entrevista domiciliar continua sendo exigível — salvo enquadramento no grupo excepcional da IN SAGICAD/MDS nº 20/2026.
+- A tese de "extinção por falta de interesse de agir" tende a **perder relevância** para casos de manutenção/atualização de unipessoal **já cadastrado**, porque o pedido passa a ser de regularização cadastral e manutenção/restabelecimento diretos, sem entrevista como condição (modelo da CCR de dispensa de entrevista domiciliar, outubro/2026).
+- A tese **continua plenamente aplicável** a casos de **nova inclusão** no PBF ou de **averiguação cadastral/apuração de irregularidade**, hipóteses em que a entrevista domiciliar continua sendo exigível — salvo enquadramento em grupo excepcional da IN SAGICAD/MDS nº 20/2026 (art. 1º, I a IX, com a redação da IN nº 22/2026). Nesses casos, o Informativo da CCR recomenda pedir, na mesma ação, o **suprimento judicial** da entrevista não realizada por falha do Poder Público, porque a visita afasta, por si só, o limite de 16%.
 - A tese **voltará a ter aplicação geral** após 01/07/2027, quando cessar a suspensão.
 
 Antes de usar este cenário, verificar se o caso concreto é de manutenção de unipessoal já cadastrado (sujeito à suspensão) ou de nova inclusão/averiguação cadastral (não sujeito à suspensão).
