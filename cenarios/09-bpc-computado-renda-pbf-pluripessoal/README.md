@@ -179,6 +179,14 @@ determinar a implantação do benefício em 15 dias.
 
 [Íntegra em `../../jurisprudencia/5004681-10.2023.4.04.7101.md`]
 
+**Processo 1022780-30.2025.4.01.3700** — 3ª Vara Federal Cível da Seção Judiciária do Maranhão (SJMA). Juiz Federal Clodomir Sebastião Reis. Sentença de procedência assinada em 23/06/2026 (rito comum). Autora pessoa com deficiência, titular de BPC, **família unipessoal**, excluída do PBF em janeiro de 2025 pelo cômputo do BPC — mostra que a tese não se limita a famílias pluripessoais.
+
+> "A aplicação literal do art.4º, §2º, conduz, no caso concreto, à exclusão da autora do programa, em razão da elevação artificial da renda familiar per capita. Todavia, essa interpretação revela-se incompatível com o sistema constitucional de proteção social, na medida em que utiliza benefício assistencial destinado à garantia do mínimo existencial como fator de restrição a outro mecanismo de proteção igualmente essencial."
+
+Dispositivo: declara a inaplicabilidade do art. 4º, §2º, da Lei nº 14.601/2023 ao caso concreto, determina a reinclusão com exclusão do BPC do cálculo da renda e condena a União às parcelas vencidas desde janeiro de 2025; honorários de 10% em favor da DPU (Tema 1.002 do STF). Sentença sujeita a recurso; há agravo de instrumento da União contra a tutela.
+
+[Íntegra em `../../jurisprudencia/1022780-30.2025.4.01.3700.md`]
+
 ## Pedidos
 
 Esqueleto de pedidos, a adaptar ao caso concreto:
