@@ -13,7 +13,7 @@ A limitação de 16% é ato infralegal e não pode ser aplicada de forma mecâni
 - Art. 7º, IX, do Decreto 7.053/2009 (Política Nacional para a População em Situação de Rua) — acesso a benefícios assistenciais e a programas de transferência de renda.
 - Portaria MDS 1.097/2025 — também introduziu o marcador de insegurança alimentar como hipótese prioritária.
 - Portaria MDS 1.070/2025 — dispensa a entrevista domiciliar nas hipóteses do art. 11 da Portaria 897/2023 e para pessoas em situação de rua.
-- IN SAGICAD/MDS nº 20/2026, art. 1º, V (vigente desde 22/01/2026) — dispensa também o cadastro domiciliar para família em situação de rua, um dos oito grupos excepcionais do art. 1º, I a VIII.
+- IN SAGICAD/MDS nº 20/2026, art. 1º, V (vigente desde 22/01/2026) — dispensa também o cadastro domiciliar para família em situação de rua, um dos nove grupos excepcionais do art. 1º, I a IX (o inciso IX — demais Grupos Populacionais Tradicionais e Específicos, GPTE — foi incluído pela IN SAGICAD/MDS nº 22/2026).
 
 ## Jurisprudência
 

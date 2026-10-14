@@ -11,7 +11,17 @@ Sempre conferir o original antes de transcrever em peça.
 - [Informe Cadastro Único nº 98, de 03/08/2026](https://www.dpu.def.br/images/conecta-dpu/informe_mds_agosto_2026.pdf) — IN SAGICAD/MDS nº 22/2026
 - [Informe Bolsa Família nº 128, de 25/08/2026](https://www.dpu.def.br/images/conecta-dpu/informe_bolsa_familia_128.pdf) — pagamento de agosto e datas-limite da Revisão Cadastral 2026
 
-Os três informes do MDS vinculam ao Acordo nº 4/2026 a Portaria MDS nº 1.199/2026 e a IN SAGICAD/MDS nº 22/2026 e podem ser usados como documentos de apoio nas petições, nos ofícios e no atendimento.
+Cópias dos quatro documentos estão em [`docs/mds-ccr-out-2026/`](mds-ccr-out-2026/).
+
+### O que são os informes do MDS
+
+São boletins que o próprio Ministério do Desenvolvimento e Assistência Social envia aos gestores e técnicos municipais do Cadastro Único e do Bolsa Família (CRAS e postos de cadastramento), explicando como aplicar as normas novas. A CCR Cível os obteve na Câmara Nacional de Diálogo e de Negociação Permanente entre o SUAS e o Sistema de Justiça, onde vem cobrando que a rede municipal seja informada das mudanças.
+
+- **Informe Cadastro Único nº 97 (17/07/2026)** — explica a Portaria MDS nº 1.199/2026: entrevista domiciliar adiada para 01/07/2027 na atualização cadastral de unipessoais beneficiárias do PBF e na inclusão/atualização ligada ao BPC; não vale para a inclusão de unipessoal com perfil de renda, nem para averiguação ou apuração de fraude. Determina que os entes responsáveis pelo cadastramento assegurem que a entrevista não seja impedimento nessas hipóteses e que as famílias sejam atendidas nas unidades físicas, em unidades móveis ou em mutirões.
+- **Informe Cadastro Único nº 98 (03/08/2026)** — explica a IN SAGICAD/MDS nº 22/2026: todas as famílias de Grupos Populacionais Tradicionais e Específicos (GPTE) ficam dispensadas da entrevista em domicílio; traz o quadro das unipessoais por perfil de renda e reconhece que as famílias não devem ser responsabilizadas pelo não cumprimento de exigência cuja execução depende exclusivamente do Poder Público.
+- **Informe Bolsa Família nº 128 (25/08/2026)** — panorama da folha de agosto e, no que interessa, as datas-limite da Revisão Cadastral 2026 por público e o prazo de 180 dias para reverter cancelamento (seção 3 abaixo).
+
+**Para que servem:** vinculam ao Acordo nº 4/2026 a Portaria MDS nº 1.199/2026 e a IN SAGICAD/MDS nº 22/2026 e são a palavra do próprio MDS à sua rede. Podem ser juntados como documentos de apoio nas petições (inclusive para demonstrar a omissão estatal na entrevista domiciliar), anexados a ofícios ao CRAS ou à gestão municipal que ainda exija a visita, e usados no atendimento.
 
 ## 1. O Acordo MDS/INSS/DPU nº 4/2026
 

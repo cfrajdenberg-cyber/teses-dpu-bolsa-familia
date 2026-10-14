@@ -53,7 +53,7 @@ Cada cenário em [`cenarios/`](cenarios/) corresponde a uma situação fática r
 
 ## Fontes
 
-Guia técnico de teses do 3º Ofício Cível da DPU/SP (atualizado conforme o Memorando Circular nº 8747849/2026-DPGU/CCRCIVEL), acervo de decisões favoráveis do 3º Ofício Cível, e o repositório oficial "Material Disponível — Bolsa Família" da CCR Cível da DPU (SharePoint institucional).
+Guia técnico de teses do 3º Ofício Cível da DPU/SP (atualizado conforme o Memorando Circular nº 8747849/2026-DPGU/CCRCIVEL), acervo de decisões favoráveis do 3º Ofício Cível, Informativo CCR Cível de outubro/2026 e informes do MDS que o acompanham (Cadastro Único nº 97 e nº 98; Bolsa Família nº 128 — em [`docs/mds-ccr-out-2026/`](docs/mds-ccr-out-2026/)), e o repositório oficial "Material Disponível — Bolsa Família" da CCR Cível da DPU (SharePoint institucional).
 
 ## Licença
 
